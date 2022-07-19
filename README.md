@@ -14,9 +14,13 @@ https://simpleicons.org/
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Iver M Punayan </strong></samp></h2>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iverjaycel&show_icons=true&theme=cobalt)
+
+
 <p align='left'> 📫 As a person who is always eager to learn new things about technology and life. Static websites and web scripts are two of my favorite things to create, and I've been a self-taught software developer ever since. Working with cutting-edge tools and technologies is one of my favorite parts of my Full Stack Javascript professional path.</p>
 
 Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
+
 
 💻 **Languages and Tools:** 🛠️<br>
 
@@ -35,6 +39,9 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 🧐 **Knowledge of:**<br>
