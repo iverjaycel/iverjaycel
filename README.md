@@ -1,12 +1,13 @@
-!--
 
+
+<!--
 ## Complete list of github markdown emoji markup
 https://gist.github.com/rxaviers/7360908
 
-## technologies Icons 
+<!--## technologies Icons 
 https://simpleicons.org/
-
 -->
+
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/iverjaycel?label=Follow%20Me&style=social)](https://github.com/iverjaycel)
 <br>
 <br>
@@ -18,7 +19,7 @@ https://simpleicons.org/
 [![HackerRank](https://img.shields.io/badge/HackerRank-sawalqa_jo-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)]()
 [![Codepen](https://img.shields.io/badge/Codewars-Ahmad%20Sawalqeh-maroon?logo=codewars&logoColor=maroon&labelColor=black)]()
 <!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
--->
+
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Iver M Punayan </strong></samp></h2>
 
