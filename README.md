@@ -12,15 +12,6 @@ https://simpleicons.org/
 <br>
 <br>
 
-<!--[![Mail](https://img.shields.io/badge/Hotmail-sawalqa_jo@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)]()
-<br>
-[![Codepen](https://img.shields.io/badge/Codepen-Ahmad%20Sawalqeh-gray?logo=codepen&logoColor=white&labelColor=black)]()
-[![Codesandbox](https://img.shields.io/badge/Codesandbox-Ahmad%20Sawalqeh-gray?logo=codesandbox&logoColor=white&labelColor=black)]()
-[![HackerRank](https://img.shields.io/badge/HackerRank-sawalqa_jo-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)]()
-[![Codepen](https://img.shields.io/badge/Codewars-Ahmad%20Sawalqeh-maroon?logo=codewars&logoColor=maroon&labelColor=black)]()
-<!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
-
-
 <h2 align='center'><samp><strong>Hi there 👋, I am Iver M Punayan </strong></samp></h2>
 
 <p align='left'> 📫 As a person who is always eager to learn new things about technology and life. Static websites and web scripts are two of my favorite things to create, and I've been a self-taught software developer ever since. Working with cutting-edge tools and technologies is one of my favorite parts of my Full Stack Javascript professional path.</p>
