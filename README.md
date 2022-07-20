@@ -71,9 +71,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=ffffff&labelColor=FF2D20)
 
 
-<!-- ✅  **GitHub Extra Pins**
-
-
+<!-- ✅  **GitHub Extra Pins**-->
 </br>
 <p style="display: flex; justify-contect: space-between;">
 <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=iverjaycel" />
