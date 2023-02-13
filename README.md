@@ -47,7 +47,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 🧐 **Knowledge of:**<br>
 
-`Responsive web design`, `Styled Components`, `React `, `Python`, `3rd Party API`, `Object-Oriented Programming`, `data structures and algorithms`.
+`Responsive web design`, `Styled Components`, `React `, `Python`,  `Object-Oriented Programming`, `data structures and algorithms`.
 
 
 🌍 **Deployment platforms:**<br>
