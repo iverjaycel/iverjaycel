@@ -34,8 +34,6 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
 
 🧐 **Knowledge of:**<br>
 
