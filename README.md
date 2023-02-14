@@ -32,6 +32,10 @@ Programmer specialized in **PYTHON**
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&labelColor=ffffff)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=ffffff&labelColor=0078D6)
+![KaliLinux](https://img.shields.io/badge/-KaliLinux-000000?style=flat&logo=kalilinux&logoColor=ffffff&labelColor=0078D6)
+
+
 
 
 
