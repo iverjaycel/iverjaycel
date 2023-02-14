@@ -37,7 +37,7 @@ Programmer specialized in **PYTHON**
 
 🧐 **Knowledge of:**<br>
 
- `Python`,  `Object-Oriented Programming`, `data structures and algorithms`.
+ `Python`,  `Object-Oriented Programming`, `data structures and algorithms`, `penetration testing `, `Linux`.
 
 
 🌍 **Deployment platforms:**<br>
