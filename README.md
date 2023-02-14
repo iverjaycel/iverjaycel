@@ -53,7 +53,8 @@ Programmer specialized in **PYTHON**
 
 
 📚 **Working on:** <br>
-
+ ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php&logoColor=ffffff&labelColor=0078D6)
+ ![React](https://img.shields.io/badge/-react-000000?style=flat&logo=react&logoColor=ffffff&labelColor=0078D6)
 
 
 🤓 **Interested:** <br>
