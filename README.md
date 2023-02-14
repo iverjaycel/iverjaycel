@@ -16,9 +16,9 @@ https://simpleicons.org/
 <h2 align='center'><samp><strong>Hi there 👋, I am Iver M Punayan </strong></samp></h2>
 
 
-<p align='left'> 📫 As a person who is always eager to learn new things about technology and life. Static websites and web scripts are two of my favorite things to create, and I've been a self-taught software developer ever since. Working with cutting-edge tools and technologies is one of my favorite parts of my Full Stack Javascript professional path.</p>
+<p align='left'> 📫 As a person who is always eager to learn new things about technology and life. </p>
 
-Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
+Programmer specialized in **PYTHON** 
 
 
 💻 **Languages and Tools:** 🛠️<br>
@@ -37,7 +37,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 🧐 **Knowledge of:**<br>
 
-`Responsive web design`, `Styled Components`, `React `, `Python`,  `Object-Oriented Programming`, `data structures and algorithms`.
+ `Python`,  `Object-Oriented Programming`, `data structures and algorithms`.
 
 
 🌍 **Deployment platforms:**<br>
