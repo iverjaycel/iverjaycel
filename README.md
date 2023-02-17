@@ -50,7 +50,6 @@ Programmer specialized in **PYTHON**
 
 
 🚩 **Highlights:** <br>
-NLP project https://iverjaycel-capstone2-streamlit-app-wy5xs1.streamlitapp.com/
 
 
 📚 **Working on:** <br>
