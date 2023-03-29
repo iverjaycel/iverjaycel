@@ -60,6 +60,20 @@ Programmer specialized in **PYTHON**
 🤓 **Interested:** <br>
 
 
+<p align="center">
+<a href="https://github.com/azizovrafael">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azizovrafael&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azizovrafael&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
+
+
+
+<summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/azizovrafael"><img alt="Rafael's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=azizovrafael&custom_title=Rafael's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+  
 <!-- ✅  **GitHub Extra Pins**-->
 </br>
 <p style="display: flex; justify-contect: space-between;">
