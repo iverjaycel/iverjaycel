@@ -65,7 +65,7 @@ Programmer specialized in **PYTHON**
 
 <p align="center">
 <a href="https://github.com/iverjaycel">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azizovrafael&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iverjaycel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azizovrafael&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
@@ -74,7 +74,7 @@ Programmer specialized in **PYTHON**
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/iverjaycel"><img alt="Rafael's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=azizovrafael&custom_title=Rafael's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/iverjaycel "><img alt="Rafael's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iverjaycel&custom_title=Rafael's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 <p style="display: flex; justify-contect: space-between;">
 <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=iverjaycel" />
