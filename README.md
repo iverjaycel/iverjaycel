@@ -18,7 +18,7 @@ https://simpleicons.org/
 
 <p align='left'> 📫 As a person who is always eager to learn new things about technology and life. </p>
 
-Programmer specialized in **PYTHON** 
+
 
 
 💻 **Languages and Tools:** 🛠️<br>
